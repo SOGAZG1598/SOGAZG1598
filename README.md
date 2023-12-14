@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# SebastianOgaz
+# Sebastian Ogaz
 
 Hi there! I'm a software engineering undergraduate with a passion for building innovative solutions and learning new technologies. I have experience in Python, C++, HTML, CSS, Swift, PostgreSQL and React.
 
